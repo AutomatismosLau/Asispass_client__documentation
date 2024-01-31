@@ -44,3 +44,21 @@ acontinuacion se mostrara el manual de usuario dividido en 2 grandes partes
 * [Administrador De Empresas](1.AdmoEmpresas/1.AdmoEmpresas.MD)
 * Fiscalizador DT
 * Empleados
+
+
+### Construido con 🛠️
+
+* [NET 6](https://docs.microsoft.com/en-us/dotnet/) - NET 6, con MVC 
+* [NET 5](https://docs.microsoft.com/en-us/dotnet/) - NET 5, con MVC *Actualizado en 2023*
+
+### Autores ✒️
+
+* **Hector Contreras** - *Team Leader* - [hikdul](https://github.com/hikdul)
+* **Alberto Salamanca** - *ZKController & Foreing Devices Dev* - [KylarDev](https://github.com/KylarDev)
+* **Ricardo Albido** - *Team partner* - [ricardoalonne](https://github.com/ricardoalonne)
+
+
+### Licencia 📄
+
+Este proyecto está bajo la Licencia (privada) - pertenoce en su totalidad a la empresa automatismoslau ubicada en Santiago de Chile
+para leer el acuerdo de licencia, puede visitar el  siguiente [enlace](./AcuerdoLicencia.md)
