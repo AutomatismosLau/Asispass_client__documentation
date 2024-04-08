@@ -61,4 +61,4 @@ En la última línea, se muestran los días de inasistencias, los días con marc
 Al final, se puede observar el tiempo y a favor de quién sería la compensación total.
 
 
-[Volver](./Reportes.MD)
+[Volver](./ReporteLau.MD)
