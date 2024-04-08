@@ -39,8 +39,8 @@ acontinuacion se mostrara el manual de usuario dividido en 2 grandes partes
 1. [Secciones Comunes](./0.TodosLosUsuarios/0.TodosLosUsuarios.md): la informacion que todos los usuarios manejan en comun.
 2. informacion por usuario: la informacion o el flujo que es especifico por cada usuario; este a su ves tiene una clasificion por cada nivel de usuario que seria la siguiente:
 
-* Super Admin
-* Administrador de Sistema
+* Super Admin _[No Public]_
+* Administrador de Sistema _[No Public]_
 * [Administrador De Empresas](1.AdmoEmpresas/1.AdmoEmpresas.MD)
 * Fiscalizador DT
 * Empleados

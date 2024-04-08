@@ -27,4 +27,12 @@ En caso de ser necesario en el menu principal existe una opcion para intercalar 
 
 Este boton se encuentra en una columna entre las opciones de los horarios en la vista principal de la pagina.
 
+### Horario Minero
+
+Este horario esta definido para aquellas personas donde su jornada tiene inicio y fin disponibles por periodos. Donde por ejemplo un trabajador trabaja durante 15 dias consecutivos y luego descansa 5, completando asi periodo de 20 dias pero que es un poco mas complejo al querer organizanlo destro del periodo normal de trabjo definido por semanas.
+
+![permuta](../img/PHorario.png)
+
+la idea de este horario es poder definir los periodos indicando que se hara cada dia, asi de esta manera el sistema asigna para cada dia el horario segun su periodo de asignacion y genera los reportes y marcas basados en este horario.
+
 [volver](./index.md)

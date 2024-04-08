@@ -21,3 +21,6 @@ y por ultimo la  opcion de eliminar o [desactivar](./rp/Delete.md), Tener en  cu
 ![index](../img/rpIndex.png)
 
 sobre el listado, podremos resaltar que los datos mostrados son el  periodo  de  cambio, fecha en que inicio estos cambios; fecha en que acaban o N/A   si no se selecciona dicha fecha; La ultima ves que se realiza una actualizacion y por ultimo tenemos si este elemento esta o no activo.
+
+---
+[Volver](./index.md)

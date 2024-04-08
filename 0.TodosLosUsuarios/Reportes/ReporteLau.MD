@@ -5,9 +5,9 @@ Actualmente nuestro sistemo consta de 10 reportes, los primeros 4 son los que se
 - [Inicio y fin de jornada](./infnj.md)
 - [Colaciones](./col.md)
 - [Reporte General](./MM.MD)
-- [Atrasos](./atrasos.md)
-- [Inasistencia](./inasistencia.md)
-- [Tiempo Extra](./te.md)
+- [Atrasos](./atrasos.MD)
+- [Inasistencia](./inasistencia.MD)
+- [Tiempo Extra](./te.MD)
 
 ![Reportes Lau](../Reportes/img/ReportesLau.png)
 
