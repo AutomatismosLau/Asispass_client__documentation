@@ -2,7 +2,7 @@
 
 Este reporte es para estudiar los atrasos en el inicio de jornada en cada dia de estudio y entregando el resumen de manero muy simplificada para hacer mas simple la busqueda y obtencion de informacion.
 
-En el caso de este reporte utilizamos la [Busqueda Simple](./SimpleSearch.MD) para genera el reporte
+Para este reporte la busqueda se hace mediante el sistema de [Busqueda Simple](./SimpleSearch.MD) para genera el reporte
 
 una ves generado el reporte podremos ver los siguiente datos.
 
