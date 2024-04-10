@@ -43,6 +43,27 @@ una ves ingresamos en los asignadores, obtenemos una vista similar a esta:
 
 donde seleccionamos el horario por el nombre que se creo, luego el usuario o grupo de trabajadores y por ultimo el periodo de asignacion; y con estos simples pasos nuestro horario queda asignado. 
 
+## Editar Dias Asignados ![editar](../img/editDias.png)
+
+Esta opcion esta pensada para observar el detalle de los dias ya asignados por el sistema y con la posibilidad de modificar los dias con la condicion de que solo se pueden modificar dias futuros y el dia en curso.
+
+Una ves se ingresa se puede observar que tenemos un buscador simple
+
+![simpleSeart](../img/buscadorSimple.png)
+
+esto buscador nos permite seleccionar un periodo y 1 usuarios para poder observar cada asignacion que ya se haya ejecutado para cada usuario en el periodo seleccionado
+
+![dias](../img/diasPermuta.png)
+
+si clickeamos en la opcion de editar nos permite modificar las horas sin problema alguno
+
+![editar](../img/editDay.png)
+
+se realizan las modificaciones pertinentes y con dar guardar, ya tenemos nuestro dia perfectamente modificado.
+
+
+---
+
 ### Notas a tomar en cuenta
 
 * el horario se asigna por periodos de manera automatica una ves sea el momento de empezar el horario.
