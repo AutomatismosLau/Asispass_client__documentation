@@ -1,4 +1,4 @@
-# Horario Permuta
+# Turnos 
 
 Como bien se indico, este elemento se realizo para cubrir la necesidad de aquellas empresas o puestos de trabajon que salen por completo de la norma legal, con esto nos referimos a las empresas que los periodos de laburo difieren en periodos distinto a los semanales que se usan de manera convencional. El mejor ejemplo que se puede tomar aca en cuenta es la asignacion de horarios para el area minera.
 
@@ -29,19 +29,13 @@ otro elemento a destacar es que si necesitamos cambiar el orden de nuestro dias 
 un detalle es que la asignacion de horario se hace tomando en cuenta siempre el orden donde el primer dia a asignar es que esta en la parte superior a nivel visual, y el ultima es el que se encuentra al fondo de la lista.
 
 
-## Otras Opciones ![Otras Opciones](../img/permutaOpciones.png)
+## Otras Opciones 
 
 Para la opcion de eliminar ![delete](../img/detelebtn.png) es tan simple como dar click y nuestro elemento queda automaticamente fuera del sistema.
 
 en el caso de la edicion ![edit](../img/editbtn.png) es similar al crear con la diferencia de que al ingresar voy a poder obtener los datos del horario anterior.
 
-la asignacion por trabajador ![](../img/PHasignacion1.png) y la asignacion por grupos ![](../img/PHasignacion2.png) se ven esactamente igual con la diferencia de que una le asigna el horario a 1 solo trabajador y la grupal lo hace para todo un grupo seleccionado
 
-una ves ingresamos en los asignadores, obtenemos una vista similar a esta: 
-
-![asignar](../img/asignarVista.png)
-
-donde seleccionamos el horario por el nombre que se creo, luego el usuario o grupo de trabajadores y por ultimo el periodo de asignacion; y con estos simples pasos nuestro horario queda asignado. 
 
 ## Editar Dias Asignados ![editar](../img/editDias.png)
 
