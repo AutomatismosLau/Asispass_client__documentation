@@ -3,7 +3,8 @@
 En las marcaciones, existen diferentes elementos a tener en cuenta, los cuales detallaremos a continuación para comprender la variedad de opciones en este nivel:
 
 ![marks](../img/MarcacionesG.png)
-
+ 
+* **[GeoMarca:](./GeoMarcas.md)** Permite generar y asignar espacio geograficos para limitar las marcaciones de usuario a estos espacios
 * **[Búsqueda:](./MarcaBusqueda.md)** Permite buscar el listado de marcas de un trabajador por período. [[ACTUALIZADO]]
 * **[Cambios:](./MarcaCambios.md)** Permite generar cambios o simplemente marcar la asistencia de un empleado en un día/hora específico.
 * **[Incidencias:](./MarcaIncidencia.md)** Permite observar los reclamos o notas generadas por los empleados de las empresas.

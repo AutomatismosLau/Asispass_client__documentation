@@ -42,9 +42,8 @@ acontinuacion se mostrara el manual de usuario dividido en 2 grandes partes
 * Super Admin _[No Public]_
 * Administrador de Sistema _[No Public]_
 * [Administrador De Empresas](1.AdmoEmpresas/1.AdmoEmpresas.MD)
+* [Colaboradores](./2.Empleados/2.Empleados.MD)
 * Fiscalizador DT [No public]
-* Empleados
-
 
 ### Construido con 🛠️
 
