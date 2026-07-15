@@ -42,7 +42,7 @@ acontinuacion se mostrara el manual de usuario dividido en 2 grandes partes
 * Super Admin _[No Public]_
 * Administrador de Sistema _[No Public]_
 * [Administrador De Empresas](1.AdmoEmpresas/1.AdmoEmpresas.MD)
-* Fiscalizador DT
+* Fiscalizador DT [No public]
 * Empleados
 
 
@@ -56,7 +56,7 @@ acontinuacion se mostrara el manual de usuario dividido en 2 grandes partes
 * **Hector Contreras** - *Team Leader* - [hikdul](https://github.com/hikdul)
 * **Alberto Salamanca** - *ZKController & Foreing Devices Dev* - [KylarDev](https://github.com/KylarDev)
 * **Ricardo Albido** - *Team partner* - [ricardoalonne](https://github.com/ricardoalonne)
-
+* **Pablo Abarca** - *Mobile Developer* - [elshishapablo](https://github.com/elshishapablo)
 
 ### Licencia 📄
 

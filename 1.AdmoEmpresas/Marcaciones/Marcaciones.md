@@ -8,7 +8,12 @@ En las marcaciones, existen diferentes elementos a tener en cuenta, los cuales d
 * **[Cambios:](./MarcaCambios.md)** Permite generar cambios o simplemente marcar la asistencia de un empleado en un día/hora específico.
 * **[Incidencias:](./MarcaIncidencia.md)** Permite observar los reclamos o notas generadas por los empleados de las empresas.
 * **[Permisos:](./MarcaPermisos.md)** Permite gestionar permisos, vacaciones y otros tipos de ausencias de un trabajador en su jornada ordinaria de trabajo.
+* **[Documentos:](./docs.md)** Para gestionar los documentos generados, aprobados y/o rechazados.
 * **[Pacto Horas Extras:](./Marcaphe.md)** Permite generar pactos de horas extras y tener un registro preciso y constante de ellos.
+* **[Anexos](./anexos.md)** para generar documentos de anexos
+* **[Notificaciones](./notificacion.md)** para generar documentos de Notificaciones
+* **[Acuerdo de cambio de tiempo extra por días de descanso adicionales](./ahe.md)** para generar documentos de acuerdos de horas extras
+
 
 ---
 [volver](../1.AdmoEmpresas.MD)

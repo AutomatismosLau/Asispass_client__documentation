@@ -21,22 +21,24 @@ Los botones de acción constan de dos: uno que permite expandir o minimizar el i
 Una vez expandido el reporte, se puede observar información de la empresa a la que pertenece el empleado, el periodo de estudio y una tabla que proporciona información detallada día a día. Esta tabla contiene diferentes elementos que se describen a continuación:
 
 * **Fecha:** Día de estudio.
-* **J.O. Pactada:** Hora de inicio y fin de la jornada según el horario establecido.
-* **J.O. Real:** Hora de inicio y fin de la jornada según las marcas generadas por el empleado.
-* **C.L. Pactada:** Hora de inicio y fin de la colación según el horario establecido.
-* **C.L. Real:** Hora de inicio y fin de la colación según las marcas generadas por el empleado.
-* **Anomalías:** Tiempo que está a favor del empleador. Estos momentos incluyen situaciones como "atraso al inicio de la jornada (A.I.J.)", donde el empleado incumplió con el horario y se suma ese tiempo como deuda hacia la empresa. Cada anomalía se detalla en esta columna.
-* **H.E.** Horas extras o tiempo extra, que representa las horas adicionales laboradas en el día asignado.
-* **Comentarios:** Comentarios adicionales sobre el día en cuestión.
+* **Jornada Ordinaria. Pactada:** Hora de inicio y fin de la jornada según el horario establecido.
+* **Marcacion Real:** Hora de inicio y fin de la jornada según las marcas generadas por el empleado.
+* **Colacion:** Hora de inicio y fin de la colación según el horario establecido.
+* **Marcacion Colacion:** Hora de inicio y fin de la colación según las marcas generadas por el empleado.
+* **Tiempo Faltante:** Tiempo que está a favor del empleador. Estos momentos incluyen situaciones como "atraso al inicio de la jornada (A.I.J.)", donde el empleado incumplió con el horario y se suma ese tiempo como deuda hacia la empresa. Cada anomalía se detalla en esta columna.
+* **Tiempo extra** Horas extras o tiempo extra, que representa las horas adicionales laboradas en el día asignado.
+* **Otras Marcaciones** Se muestras marcas realizadas fuera de jornada (opcion que necesita ser habilitada por el administrador)
+* **Observaciones:** Comentarios adicionales sobre el día en cuestión.
 
 Al finalizar la semana, se mostrarán los totales semanales en la columna de fecha correspondiente. El informe mostrará el total de la semana para cada columna:
 
 * **J.O. Pactada:** Total de tiempo que se debió laborar.
 * **J.O. Real:** Total de tiempo laborado.
-* **C.L. Pactada:** Total de tiempo que se debió descansar.
-* **C.L. Real:** Total de tiempo de descanso.
-* **Anomalías:** Total de tiempo en anomalías.
-* **H.E.** Total de tiempo extra.
-* **Comentarios:** Tiempo de compensación y a quién corresponde esa compensación.
+* **Colacion:** Total de tiempo que se debió descansar.
+* **Marcacion Colarion:** Total de tiempo de descanso.
+* **Tiempo Faltante:** Total de tiempo en anomalías.
+* **Tiempo Extra** Total de tiempo extra.
+* **Otras Marcaciones** Total de tiempo segun las marcaciones adicionales.
+* **Observaciones:** Tiempo de compensación y a quién corresponde esa compensación.
 
 [Volver](./Reportes.MD)
