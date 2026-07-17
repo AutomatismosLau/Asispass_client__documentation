@@ -1,7 +1,4 @@
 
-# Generate the SaaS License Agreement as a Word-compatible document
-# I'll create a comprehensive, professionally formatted agreement
-
 CONTRATO DE LICENCIA DE SOFTWARE COMO SERVICIO (SAAS)
 SaaS LICENSE AGREEMENT
 
@@ -566,4 +563,4 @@ Firma del Empleado: _________________________
 Fecha: _____________________________________
 
 
-
+═══════════════════════════════════════════════════════════════════════════════
