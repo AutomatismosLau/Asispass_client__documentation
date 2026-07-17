@@ -80,9 +80,11 @@ Asispass incorpora componentes de código abierto (open source) sujetos a sus re
 
 | Componente | Licencia | Uso | Repositorio |
 |------------|----------|-----|-------------|
-| [Nombre del componente] | [Licencia, ej: MIT, Apache 2.0, GPL] | [Descripción del uso] | [URL del repositorio] |
-| [Nombre del componente] | [Licencia] | [Descripción del uso] | [URL del repositorio] |
-| [Nombre del componente] | [Licencia] | [Descripción del uso] | [URL del repositorio] |
+| [Dotnet] | [ MIT, Apache 2.0] | [All code base] | [https://github.com/dotnet/runtime] |
+| [Mailkit] | [MIT] | [Email] | [https://github.com/jstedfast/MailKit.git] |
+| [Newtonsoft] | [MIT] | [JSON] | [https://www.nuget.org/packages/newtonsoft.json/] |
+| [SpreadsheetLight] | [MIT] | [Visualization Files] | [https://github.com/jaladaGmbH/SpreadsheetLight.git] |
+| [Swashbuckle] | [MIT] | [dev documentation] | [https://github.com/domaindrivendev/Swashbuckle.AspNetCore.git] |
 
 > **Nota:** Esta tabla debe completarse con los componentes de código abierto realmente utilizados en el proyecto.
 
@@ -90,7 +92,7 @@ Asispass incorpora componentes de código abierto (open source) sujetos a sus re
 
 El uso de Asispass por parte del Licenciatario se encuentra sujeto al cumplimiento de las condiciones de las licencias de código abierto incorporadas, en la medida que resulten aplicables. Para obtener el código fuente de los componentes open source, contactar a:
 
-📧 **Email:** [email@asispass.cl]  
+📧 **Email:** [hcontreras@AutomatismosLau.com]  
 📍 **Dirección:** Av. Francisco Bilbao 2942, Providencia, Chile
 
 ---

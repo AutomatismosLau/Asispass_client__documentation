@@ -79,9 +79,11 @@ Asispass incorporates open-source components subject to their respective license
 
 | Component | License | Usage | Repository |
 |-----------|---------|-------|------------|
-| [Component name] | [License, e.g., MIT, Apache 2.0, GPL] | [Usage description] | [Repository URL] |
-| [Component name] | [License] | [Usage description] | [Repository URL] |
-| [Component name] | [License] | [Usage description] | [Repository URL] |
+| [Dotnet] | [ MIT, Apache 2.0] | [All code base] | [https://github.com/dotnet/runtime] |
+| [Mailkit] | [MIT] | [Email] | [https://github.com/jstedfast/MailKit.git] |
+| [Newtonsoft] | [MIT] | [JSON] | [https://www.nuget.org/packages/newtonsoft.json/] |
+| [SpreadsheetLight] | [MIT] | [Visualization Files] | [https://github.com/jaladaGmbH/SpreadsheetLight.git] |
+| [Swashbuckle] | [MIT] | [dev documentation] | [https://github.com/domaindrivendev/Swashbuckle.AspNetCore.git] |
 
 > **Note:** This table must be completed with the open-source components actually used in the project.
 
@@ -89,7 +91,7 @@ Asispass incorporates open-source components subject to their respective license
 
 The Licensee's use of Asispass is subject to compliance with the conditions of the incorporated open-source licenses, to the extent applicable. To obtain the source code of open-source components, contact:
 
-📧 **Email:** [licenses@asispass.cl]  
+📧 **Email:** [hcontreras@AutomatismosLau.com]  
 📍 **Address:** Av. Francisco Bilbao 2942, Providencia, Chile
 
 ---
